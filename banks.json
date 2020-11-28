@@ -8,37 +8,37 @@
           "code": "001",
           "label": "Banco do Brasil",
           "name": "Banco do Brasil S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/001.png"
         },
         {
           "code": "003",
           "label": "Banco da Amazônia",
           "name": "Banco da Amazônia S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/003.png"
         },
         {
           "code": "004",
           "label": "Banco do Nordeste",
           "name": "Banco do Nordeste do Brasil S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/004.png"
         },
         {
           "code": "007",
           "label": "BNDES",
           "name": "Banco Nacional de Desenvolvimento Econômico e Social",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/007.png"
         },
         {
           "code": "010",
           "label": "Credicoamo",
           "name": "Credicoamo Crédito Rural Cooperativa",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/010.png"
         },
         {
           "code": "011",
           "label": "Credit Suisse Corretora de Valores",
           "name": "Credit Suisse Hedging-Griffo Corretora de Valores S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/011.png"
         },
         {
           "code": "012",
@@ -104,13 +104,13 @@
           "code": "033",
           "label": "Banco Santander",
           "name": "Banco Santander (Brasil) S. A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/033.png"
         },
         {
           "code": "036",
           "label": "Banco Bradesco BBI",
           "name": "Banco Bradesco BBI S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/036.png"
         },
         {
           "code": "037",
@@ -206,7 +206,7 @@
           "code": "077",
           "label": "Banco Inter",
           "name": "Banco Inter S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/077.png"
         },
         {
           "code": "078",
@@ -338,7 +338,7 @@
           "code": "104",
           "label": "Caixa Econômica Federal",
           "name": "Caixa Econômica Federal",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/104.png"
         },
         {
           "code": "105",
@@ -680,7 +680,7 @@
           "code": "212",
           "label": "Banco Original",
           "name": "Banco Original S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/212.png"
         },
         {
           "code": "213",
@@ -722,7 +722,7 @@
           "code": "237",
           "label": "Banco Bradesco",
           "name": "Banco Bradesco S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/237.png"
         },
         {
           "code": "241",
@@ -770,13 +770,13 @@
           "code": "260",
           "label": "NuBank",
           "name": "Nu Pagamentos S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/260.png"
         },
         {
           "code": "265",
           "label": "Banco Fator",
           "name": "Banco Fator S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/265.png"
         },
         {
           "code": "266",
@@ -794,7 +794,7 @@
           "code": "269",
           "label": "HSBC Brasil",
           "name": "HSBC Brasil S.A. Banco de Investimento",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/269.png"
         },
         {
           "code": "271",
@@ -812,7 +812,7 @@
           "code": "318",
           "label": "Banco BMG",
           "name": "Banco BMG S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/318.png"
         },
         {
           "code": "320",
@@ -872,7 +872,7 @@
           "code": "422",
           "label": "Banco Safra",
           "name": "Banco Safra S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/422.png"
         },
         {
           "code": "456",
@@ -1052,7 +1052,7 @@
           "code": "655",
           "label": "Banco Votorantim",
           "name": "Banco Votorantim S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/655.png"
         },
         {
           "code": "707",
@@ -1076,7 +1076,7 @@
           "code": "735",
           "label": "Banco Neon.",
           "name": "Banco Neon S.A.",
-          "image": ""
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/735.png"
         },
         {
           "code": "739",
