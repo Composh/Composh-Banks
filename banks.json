@@ -5,1166 +5,1362 @@
       "name": "Brazil",
       "country_banks": [
         {
+          "active": true,
           "code": "001",
           "label": "Banco do Brasil",
           "name": "Banco do Brasil S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/001.png"
         },
         {
+          "active": true,
           "code": "003",
           "label": "Banco da Amazônia",
           "name": "Banco da Amazônia S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/003.png"
         },
         {
+          "active": true,
           "code": "004",
           "label": "Banco do Nordeste",
           "name": "Banco do Nordeste do Brasil S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/004.png"
         },
         {
+          "active": true,
           "code": "007",
           "label": "BNDES",
           "name": "Banco Nacional de Desenvolvimento Econômico e Social",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/007.png"
         },
         {
+          "active": true,
           "code": "010",
           "label": "Credicoamo",
           "name": "Credicoamo Crédito Rural Cooperativa",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/010.png"
         },
         {
+          "active": true,
           "code": "011",
-          "label": "Credit Suisse Corretora de Valores",
+          "label": "Credit Suisse Hedging-Griffo Corretora de Valores",
           "name": "Credit Suisse Hedging-Griffo Corretora de Valores S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/011.png"
         },
         {
+          "active": true,
           "code": "012",
-          "label": "Banco Inbursa S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Inbursa",
+          "name": "Banco Inbursa S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/012.png"
         },
         {
+          "active": true,
           "code": "014",
-          "label": "Natixis Brasil S.A. Banco Múltiplo",
-          "name": "",
-          "image": ""
+          "label": "Natixis Brasil",
+          "name": "Natixis Brasil S.A. Banco Múltiplo",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/014.png"
         },
         {
+          "active": true,
           "code": "015",
-          "label": "UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-          "name": "",
-          "image": ""
+          "label": "UBS Brasil",
+          "name": "UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/015.png"
         },
         {
+          "active": true,
           "code": "016",
           "label": "Coop de Créd. Mútuo dos Despachantes de Trânsito de SC e Rio Grande do Sul",
-          "name": "",
+          "name": "Coop de Créd. Mútuo dos Despachantes de Trânsito de SC e Rio Grande do Sul",
           "image": ""
         },
         {
+          "active": true,
           "code": "017",
-          "label": "BNY Mellon Banco S.A.",
-          "name": "",
-          "image": ""
+          "label": "BNY Mellon Banco",
+          "name": "BNY Mellon Banco",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/017.png"
         },
         {
+          "active": true,
           "code": "018",
-          "label": "Banco Tricury S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Tricury",
+          "name": "Banco Tricury S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/018.png"
         },
         {
+          "active": true,
           "code": "021",
-          "label": "Banestes S.A. Banco do Estado do Espírito Santo",
-          "name": "",
-          "image": ""
+          "label": "Banestes - Banco do Estado do Espírito Santo",
+          "name": "Banestes S.A. Banco do Estado do Espírito Santo",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/021.png"
         },
         {
+          "active": true,
           "code": "024",
-          "label": "Banco Bandepe S.A.",
-          "name": "",
+          "label": "Banco Bandepe",
+          "name": "Banco Bandepe S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "025",
-          "label": "Banco Alfa S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Alfa",
+          "name": "Banco Alfa S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/025.png"
         },
         {
+          "active": true,
           "code": "029",
-          "label": "Banco Itaú Consignado S.A.",
-          "name": "",
+          "label": "Banco Itaú Consignado",
+          "name": "Banco Itaú Consignado S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "033",
           "label": "Banco Santander",
           "name": "Banco Santander (Brasil) S. A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/033.png"
         },
         {
+          "active": true,
           "code": "036",
           "label": "Banco Bradesco BBI",
           "name": "Banco Bradesco BBI S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/036.png"
         },
         {
+          "active": true,
           "code": "037",
-          "label": "Banco do Estado do Pará S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banpara - Banco do Estado do Pará",
+          "name": "Banco do Estado do Pará S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/037.png"
         },
         {
+          "active": true,
           "code": "040",
-          "label": "Banco Cargill S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Cargill",
+          "name": "Banco Cargill S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/040.png"
         },
         {
+          "active": true,
           "code": "041",
-          "label": "Banco do Estado do Rio Grande do Sul S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banrisul - Banco do Estado do Rio Grande do Sul",
+          "name": "Banco do Estado do Rio Grande do Sul S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/041.png"
         },
         {
+          "active": true,
           "code": "047",
-          "label": "Banco do Estado de Sergipe S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banese - Banco do Estado de Sergipe",
+          "name": "Banco do Estado de Sergipe S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/047.png"
         },
         {
+          "active": true,
           "code": "060",
-          "label": "Confidence Corretora de Câmbio S.A.",
-          "name": "",
+          "label": "Confidence Corretora de Câmbio",
+          "name": "Confidence Corretora de Câmbio S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "062",
-          "label": "Hipercard Banco Múltiplo S.A.",
-          "name": "",
+          "label": "Hipercard Banco Múltiplo",
+          "name": "Hipercard Banco Múltiplo S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "063",
-          "label": "Banco Bradescard S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Bradescard",
+          "name": "Banco Bradescard S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/063.png"
         },
         {
+          "active": true,
           "code": "064",
-          "label": "Goldman Sachs do Brasil  Banco Múltiplo S. A.",
-          "name": "",
-          "image": ""
+          "label": "Goldman Sachs do Brasil",
+          "name": "Goldman Sachs do Brasil Banco Múltiplo S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/064.png"
         },
         {
+          "active": true,
           "code": "065",
-          "label": "Banco AndBank (Brasil) S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco AndBank (Brasil)",
+          "name": "Banco AndBank (Brasil) S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/065.png"
         },
         {
+          "active": true,
           "code": "066",
-          "label": "Banco Morgan Stanley S. A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Morgan Stanley",
+          "name": "Banco Morgan Stanley S. A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/066.png"
         },
         {
+          "active": true,
           "code": "069",
-          "label": "Banco Crefisa S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Crefisa",
+          "name": "Banco Crefisa S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/069.png"
         },
         {
+          "active": true,
           "code": "070",
-          "label": "Banco de Brasília S.A.",
-          "name": "",
-          "image": ""
+          "label": "BRB - Banco de Brasília",
+          "name": "Banco de Brasília S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/070.png"
         },
         {
+          "active": true,
           "code": "074",
-          "label": "",
+          "label": "Banco J. Safra",
           "name": "Banco J. Safra S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "075",
-          "label": "Banco ABN Amro S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco ABN Amro",
+          "name": "Banco ABN Amro S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/075.png"
         },
         {
+          "active": true,
           "code": "076",
-          "label": "Banco KDB do Brasil S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco KDB do Brasil",
+          "name": "Banco KDB do Brasil S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/076.png"
         },
         {
+          "active": true,
           "code": "077",
           "label": "Banco Inter",
           "name": "Banco Inter S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/077.png"
         },
         {
+          "active": true,
           "code": "078",
-          "label": "Haitong Banco de Investimento do Brasil S.A.",
-          "name": "",
-          "image": ""
+          "label": "Haitong Banco de Investimento do Brasil",
+          "name": "Haitong Banco de Investimento do Brasil S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/078.png"
         },
         {
+          "active": true,
           "code": "079",
-          "label": "Banco Original do Agronegócio S.A.",
-          "name": "",
+          "label": "Banco Original do Agronegócio",
+          "name": "Banco Original do Agronegócio S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "080",
-          "label": "BT Corretora de Câmbio Ltda.",
-          "name": "",
-          "image": ""
+          "label": "B&T Corretora de Câmbio",
+          "name": "B&T Corretora de Câmbio Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/080.png"
         },
         {
+          "active": true,
           "code": "081",
-          "label": "BBN Banco Brasileiro de Negocios S.A.",
-          "name": "",
-          "image": ""
+          "label": "BBN Banco Brasileiro de Negocios",
+          "name": "BBN Banco Brasileiro de Negocios S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/081.png"
         },
         {
+          "active": true,
           "code": "082",
-          "label": "Banco Topazio S.A.",
-          "name": "",
+          "label": "Banco Topazio",
+          "name": "Banco Topazio S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "083",
-          "label": "Banco da China Brasil S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco da China Brasil",
+          "name": "Banco da China Brasil S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/083.png"
         },
         {
+          "active": true,
           "code": "084",
-          "label": "Uniprime Norte do Paraná - Cooperativa de Crédito Ltda.",
-          "name": "",
-          "image": ""
+          "label": "Uniprime Norte do Paraná",
+          "name": "Uniprime Norte do Paraná - Cooperativa de Crédito Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/084.png"
         },
         {
+          "active": true,
           "code": "085",
           "label": "Cooperativa Central de Crédito Urbano - Cecred",
-          "name": "",
-          "image": ""
+          "name": "Cooperativa Central de Crédito Urbano - Cecred",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/085.png"
         },
         {
+          "active": true,
           "code": "089",
-          "label": "Cooperativa de Crédito Rural da Região da Mogiana",
-          "name": "",
-          "image": ""
+          "label": "Credisan - Cooperativa de Crédito Rural da Região da Mogiana",
+          "name": "Cooperativa de Crédito Rural da Região da Mogiana",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/089.png"
         },
         {
+          "active": true,
           "code": "091",
-          "label": "Central de Cooperativas de Economia e Crédito Mútuo do Est RS - Unicred",
-          "name": "",
-          "image": ""
+          "label": "Unicred - Central de Cooperativas de Economia e Crédito Mútuo do Est RS",
+          "name": "Unicred - Central de Cooperativas de Economia e Crédito Mútuo do Est RS",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/091.png"
         },
         {
+          "active": true,
           "code": "092",
-          "label": "BRK S.A. Crédito, Financiamento e Investimento",
-          "name": "",
-          "image": ""
+          "label": "BRK Financeira",
+          "name": "BRK S.A. Crédito, Financiamento e Investimento",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/092.png"
         },
         {
+          "active": true,
           "code": "093",
-          "label": "Pólocred Sociedade de Crédito ao Microempreendedor e à Empresa de Pequeno Porte",
-          "name": "",
-          "image": ""
+          "label": "Pólocred",
+          "name": "Pólocred Sociedade de Crédito ao Microempreendedor e à Empresa de Pequeno Porte",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/093.png"
         },
         {
+          "active": true,
           "code": "094",
-          "label": "Banco Finaxis S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Finaxis",
+          "name": "Banco Finaxis S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/094.png"
         },
         {
+          "active": true,
           "code": "095",
-          "label": "Banco Confidence de Câmbio S.A.",
-          "name": "",
+          "label": "Banco Confidence de Câmbio",
+          "name": "Banco Confidence de Câmbio S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "096",
-          "label": "Banco BMFBovespa de Serviços de Liquidação e Custódia S/A",
-          "name": "",
-          "image": ""
+          "label": "Banco BM&FBovespa",
+          "name": "Banco BM&FBovespa de Serviços de Liquidação e Custódia S/A",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/096.png"
         },
         {
+          "active": true,
           "code": "097",
-          "label": "Cooperativa Central de Crédito Noroeste Brasileiro Ltda - CentralCredi",
-          "name": "",
+          "label": "CentralCredi - Cooperativa Central de Crédito Noroeste Brasileiro",
+          "name": "CentralCredi - Cooperativa Central de Crédito Noroeste Brasileiro Ltda",
           "image": ""
         },
         {
+          "active": true,
           "code": "098",
           "label": "Credialiança Cooperativa de Crédito Rural",
-          "name": "",
-          "image": ""
+          "name": "Credialiança Cooperativa de Crédito Rural",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/098.png"
         },
         {
+          "active": true,
           "code": "099",
-          "label": "Uniprime Central – Central Interestadual de Cooperativas de Crédito Ltda.",
-          "name": "",
-          "image": ""
+          "label": "Uniprime Central",
+          "name": "Uniprime Central – Central Interestadual de Cooperativas de Crédito Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/099.png"
         },
         {
+          "active": true,
           "code": "100",
-          "label": "Planner Corretora de Valores S.A.",
-          "name": "",
-          "image": ""
+          "label": "Planner Corretora de Valores",
+          "name": "Planner Corretora de Valores S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/100.png"
         },
         {
+          "active": true,
           "code": "101",
-          "label": "Renascença Distribuidora de Títulos e Valores Mobiliários Ltda.",
-          "name": "",
-          "image": ""
+          "label": "Renascença DTVM",
+          "name": "Renascença Distribuidora de Títulos e Valores Mobiliários Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/101.png"
         },
         {
+          "active": true,
           "code": "102",
-          "label": "XP Investimentos Corretora de Câmbio Títulos e Valores Mobiliários S.A.",
-          "name": "",
-          "image": ""
+          "label": "XP Investimentos",
+          "name": "XP Investimentos Corretora de Câmbio Títulos e Valores Mobiliários S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/102.png"
         },
         {
+          "active": true,
           "code": "104",
           "label": "Caixa Econômica Federal",
           "name": "Caixa Econômica Federal",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/104.png"
         },
         {
+          "active": true,
           "code": "105",
-          "label": "Lecca Crédito, Financiamento e Investimento S/A",
-          "name": "",
-          "image": ""
+          "label": "LECCA Financeira / Investimentos",
+          "name": "LECCA Crédito, Financiamento e Investimento S/A",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/105.png"
         },
         {
+          "active": true,
           "code": "107",
-          "label": "Banco Bocom BBM S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco BOCOM BBM",
+          "name": "Banco BOCOM BBM S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/107.png"
         },
         {
+          "active": true,
           "code": "108",
-          "label": "PortoCred S.A. Crédito, Financiamento e Investimento",
-          "name": "",
-          "image": ""
+          "label": "PortoCred Financeira",
+          "name": "PortoCred S.A. Crédito, Financiamento e Investimento",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/108.png"
         },
         {
+          "active": true,
           "code": "111",
-          "label": "Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A.",
-          "name": "",
-          "image": ""
+          "label": "Oliveira Trust DTVM",
+          "name": "Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/111.png"
         },
         {
+          "active": true,
           "code": "113",
-          "label": "Magliano S.A. Corretora de Cambio e Valores Mobiliarios",
-          "name": "",
-          "image": ""
+          "label": "Magliano",
+          "name": "Magliano S.A. Corretora de Cambio e Valores Mobiliarios",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/113.png"
         },
         {
+          "active": true,
           "code": "114",
-          "label": "Central Cooperativa de Crédito no Estado do Espírito Santo - CECOOP",
-          "name": "",
-          "image": ""
+          "label": "CECOOP - Central Cooperativa de Crédito no Estado do Espírito Santo",
+          "name": "CECOOP - Central Cooperativa de Crédito no Estado do Espírito Santo",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/114.png"
         },
         {
+          "active": true,
           "code": "117",
-          "label": "Advanced Corretora de Câmbio Ltda.",
-          "name": "",
-          "image": ""
+          "label": "Advanced Corretora de Câmbio",
+          "name": "Advanced Corretora de Câmbio Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/117.png"
         },
         {
+          "active": true,
           "code": "118",
-          "label": "Standard Chartered Bank (Brasil) S.A. Banco de Investimento",
-          "name": "",
-          "image": ""
+          "label": "Standard Chartered Bank (Brasil)",
+          "name": "Standard Chartered Bank (Brasil) S.A. Banco de Investimento",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/118.png"
         },
         {
+          "active": true,
           "code": "119",
-          "label": "Banco Western Union do Brasil S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Western Union do Brasil",
+          "name": "Banco Western Union do Brasil S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/119.png"
         },
         {
+          "active": true,
           "code": "120",
-          "label": "Banco Rodobens SA",
-          "name": "",
-          "image": ""
+          "label": "Banco Rodobens",
+          "name": "Banco Rodobens SA",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/120.png"
         },
         {
+          "active": true,
           "code": "121",
-          "label": "Banco Agibank S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Agibank",
+          "name": "Banco Agibank S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/121.png"
         },
         {
+          "active": true,
           "code": "122",
-          "label": "Banco Bradesco BERJ S.A.",
-          "name": "",
+          "label": "Banco Bradesco BERJ",
+          "name": "Banco Bradesco BERJ S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "124",
-          "label": "Banco Woori Bank do Brasil S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Woori Bank do Brasil",
+          "name": "Banco Woori Bank do Brasil S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/124.png"
         },
         {
+          "active": true,
           "code": "125",
-          "label": "Brasil Plural S.A. Banco Múltiplo",
-          "name": "",
-          "image": ""
+          "label": "Brasil Plural",
+          "name": "Brasil Plural S.A. Banco Múltiplo",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/125.png"
         },
         {
+          "active": true,
           "code": "126",
-          "label": "BR Partners Banco de Investimento S.A.",
-          "name": "",
-          "image": ""
+          "label": "BR Partners Banco de Investimento",
+          "name": "BR Partners Banco de Investimento S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/126.png"
         },
         {
+          "active": true,
           "code": "127",
-          "label": "Codepe Corretora de Valores e Câmbio S.A.",
-          "name": "",
-          "image": ""
+          "label": "Codepe Corretora de Valores e Câmbio",
+          "name": "Codepe Corretora de Valores e Câmbio S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/127.png"
         },
         {
+          "active": true,
           "code": "128",
-          "label": "MS Bank S.A. Banco de Câmbio",
-          "name": "",
-          "image": ""
+          "label": "MS Bank",
+          "name": "MS Bank S.A. Banco de Câmbio",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/128.png"
         },
         {
+          "active": true,
           "code": "129",
-          "label": "UBS Brasil Banco de Investimento S.A.",
-          "name": "",
+          "label": "UBS Brasil Banco de Investimento",
+          "name": "UBS Brasil Banco de Investimento S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "130",
-          "label": "Caruana S.A. Sociedade de Crédito, Financiamento e Investimento",
-          "name": "",
-          "image": ""
+          "label": "Caruana",
+          "name": "Caruana S.A. Sociedade de Crédito, Financiamento e Investimento",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/130.png"
         },
         {
+          "active": true,
           "code": "131",
-          "label": "Tullett Prebon Brasil Corretora de Valores e Câmbio Ltda.",
-          "name": "",
-          "image": ""
+          "label": "Tullett Prebon Brasil",
+          "name": "Tullett Prebon Brasil Corretora de Valores e Câmbio Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/131.png"
         },
         {
+          "active": true,
           "code": "132",
-          "label": "ICBC do Brasil Banco Múltiplo S.A.",
-          "name": "",
-          "image": ""
+          "label": "ICBC do Brasil",
+          "name": "ICBC do Brasil Banco Múltiplo S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/132.png"
         },
         {
+          "active": true,
           "code": "133",
           "label": "Confederação Nacional das Cooperativas Centrais de Crédito e Economia Familiar e",
-          "name": "",
+          "name": "Confederação Nacional das Cooperativas Centrais de Crédito e Economia Familiar e",
           "image": ""
         },
         {
+          "active": true,
           "code": "134",
-          "label": "BGC Liquidez Distribuidora de Títulos e Valores Mobiliários Ltda.",
-          "name": "",
-          "image": ""
+          "label": "BGC Liquidez",
+          "name": "BGC Liquidez Distribuidora de Títulos e Valores Mobiliários Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/134.png"
         },
         {
+          "active": true,
           "code": "135",
-          "label": "Gradual Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-          "name": "",
-          "image": ""
+          "label": "Gradual Investimentos",
+          "name": "Gradual Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/135.png"
         },
         {
+          "active": true,
           "code": "136",
-          "label": "Confederação Nacional das Cooperativas Centrais Unicred Ltda – Unicred do Brasil",
-          "name": "",
+          "label": "Unicred do Brasil - Confederação Nacional das Cooperativas Centrais Unicred",
+          "name": "Unicred do Brasil - Confederação Nacional das Cooperativas Centrais Unicred Ltda",
           "image": ""
         },
         {
+          "active": true,
           "code": "137",
-          "label": "Multimoney Corretora de Câmbio Ltda",
-          "name": "",
-          "image": ""
+          "label": "Multimoney Corretora de Câmbio",
+          "name": "Multimoney Corretora de Câmbio Ltda",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/137.png"
         },
         {
+          "active": true,
           "code": "138",
-          "label": "Get Money Corretora de Câmbio S.A.",
-          "name": "",
-          "image": ""
+          "label": "Get Money Corretora de Câmbio",
+          "name": "Get Money Corretora de Câmbio S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/138.png"
         },
         {
+          "active": true,
           "code": "139",
-          "label": "Intesa Sanpaolo Brasil S.A. - Banco Múltiplo",
-          "name": "",
-          "image": ""
+          "label": "Intesa Sanpaolo Brasil",
+          "name": "Intesa Sanpaolo Brasil S.A. - Banco Múltiplo",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/139.png"
         },
         {
+          "active": true,
           "code": "140",
-          "label": "Easynvest - Título Corretora de Valores SA",
-          "name": "",
-          "image": ""
+          "label": "Easynvest",
+          "name": "Easynvest - Título Corretora de Valores SA",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/140.png"
         },
         {
+          "active": true,
           "code": "142",
-          "label": "Broker Brasil Corretora de Câmbio Ltda.",
-          "name": "",
-          "image": ""
+          "label": "Broker Brasil Corretora de Câmbio",
+          "name": "Broker Brasil Corretora de Câmbio Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/142.png"
         },
         {
+          "active": true,
           "code": "143",
-          "label": "Treviso Corretora de Câmbio S.A.",
-          "name": "",
-          "image": ""
+          "label": "Treviso Corretora de Câmbio",
+          "name": "Treviso Corretora de Câmbio S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/143.png"
         },
         {
+          "active": true,
           "code": "144",
-          "label": "Bexs Banco de Câmbio S.A.",
-          "name": "",
-          "image": ""
+          "label": "Bexs Banco de Câmbio",
+          "name": "Bexs Banco de Câmbio S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/144.png"
         },
         {
+          "active": true,
           "code": "145",
-          "label": "Levycam - Corretora de Câmbio e Valores Ltda.",
-          "name": "",
-          "image": ""
+          "label": "Levycam Corretora de Câmbio e Valores",
+          "name": "Levycam Corretora de Câmbio e Valores Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/145.png"
         },
         {
+          "active": true,
           "code": "146",
-          "label": "Guitta Corretora de Câmbio Ltda.",
-          "name": "",
-          "image": ""
+          "label": "Guitta Corretora de Câmbio",
+          "name": "Guitta Corretora de Câmbio Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/146.png"
         },
         {
+          "active": true,
           "code": "149",
-          "label": "Facta Financeira S.A. - Crédito Financiamento e Investimento",
-          "name": "",
-          "image": ""
+          "label": "Facta Financeira",
+          "name": "Facta Financeira S.A. - Crédito Financiamento e Investimento",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/149.png"
         },
         {
+          "active": true,
           "code": "157",
-          "label": "ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda.",
-          "name": "",
-          "image": ""
+          "label": "ICAP do Brasil",
+          "name": "ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/157.png"
         },
         {
+          "active": true,
           "code": "159",
-          "label": "Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor",
-          "name": "",
-          "image": ""
+          "label": "Casa do Crédito",
+          "name": "Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/159.png"
         },
         {
+          "active": true,
           "code": "163",
-          "label": "Commerzbank Brasil S.A. - Banco Múltiplo",
-          "name": "",
-          "image": ""
+          "label": "Commerzbank Brasil",
+          "name": "Commerzbank Brasil S.A. - Banco Múltiplo",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/163.png"
         },
         {
+          "active": true,
           "code": "169",
-          "label": "Banco Olé Bonsucesso Consignado S.A.",
-          "name": "",
-          "image": ""
+          "label": "Banco Olé Bonsucesso Consignado",
+          "name": "Banco Olé Bonsucesso Consignado S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/169.png"
         },
         {
+          "active": true,
           "code": "172",
-          "label": "Albatross Corretora de Câmbio e Valores S.A",
-          "name": "",
-          "image": ""
+          "label": "Albatross Corretora de Câmbio e Valores",
+          "name": "Albatross Corretora de Câmbio e Valores S.A",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/172.png"
         },
         {
+          "active": true,
           "code": "173",
-          "label": "BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.",
-          "name": "",
-          "image": ""
+          "label": "BRL Trust Distribuidora de Títulos e Valores Mobiliários",
+          "name": "BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/173.png"
         },
         {
+          "active": true,
           "code": "174",
-          "label": "Pernambucanas Financiadora S.A. Crédito, Financiamento e Investimento",
-          "name": "",
-          "image": ""
+          "label": "Pernambucanas Financiadora",
+          "name": "Pernambucanas Financiadora S.A. Crédito, Financiamento e Investimento",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/174.png"
         },
         {
+          "active": true,
           "code": "177",
-          "label": "Guide Investimentos S.A. Corretora de Valores",
-          "name": "",
-          "image": ""
+          "label": "Guide Investimentos",
+          "name": "Guide Investimentos S.A. Corretora de Valores",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/177.png"
         },
         {
+          "active": true,
           "code": "180",
-          "label": "CM Capital Markets Corretora de Câmbio, Títulos e Valores Mobiliários Ltda.",
-          "name": "",
-          "image": ""
+          "label": "CM Capital Markets Corretora de Câmbio",
+          "name": "CM Capital Markets Corretora de Câmbio, Títulos e Valores Mobiliários Ltda.",
+          "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/180.png"
         },
         {
+          "active": true,
           "code": "182",
-          "label": "Dacasa Financeira S/A - Sociedade de Crédito, Financiamento e Investimento",
-          "name": "",
+          "label": "Dacasa Financeira",
+          "name": "Dacasa Financeira S/A - Sociedade de Crédito, Financiamento e Investimento",
           "image": ""
         },
         {
+          "active": true,
           "code": "183",
-          "label": "Socred S.A. - Sociedade de Crédito ao Microempreendedor",
-          "name": "",
+          "label": "Socred",
+          "name": "Socred S.A. - Sociedade de Crédito ao Microempreendedor",
           "image": ""
         },
         {
+          "active": true,
           "code": "184",
-          "label": "Banco Itaú BBA S.A.",
-          "name": "",
+          "label": "Banco Itaú BBA",
+          "name": "Banco Itaú BBA S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "188",
-          "label": "Ativa Investimentos S.A. Corretora de Títulos Câmbio e Valores",
-          "name": "",
+          "label": "Ativa Investimentos",
+          "name": "Ativa Investimentos S.A. Corretora de Títulos Câmbio e Valores",
           "image": ""
         },
         {
+          "active": true,
           "code": "189",
-          "label": "HS Financeira S/A Crédito, Financiamento e Investimentos",
-          "name": "",
+          "label": "HS Financeira",
+          "name": "HS Financeira S/A Crédito, Financiamento e Investimentos",
           "image": ""
         },
         {
+          "active": true,
           "code": "190",
           "label": "Cooperativa de Economia e Crédito Mútuo dos Servidores Públicos Estaduais do Rio",
-          "name": "",
+          "name": "Cooperativa de Economia e Crédito Mútuo dos Servidores Públicos Estaduais do Rio",
           "image": ""
         },
         {
+          "active": true,
           "code": "191",
-          "label": "Nova Futura Corretora de Títulos e Valores Mobiliários Ltda.",
-          "name": "",
+          "label": "Nova Futura Corretora de Títulos e Valores Mobiliários",
+          "name": "Nova Futura Corretora de Títulos e Valores Mobiliários Ltda.",
           "image": ""
         },
         {
+          "active": true,
           "code": "194",
-          "label": "Parmetal Distribuidora de Títulos e Valores Mobiliários Ltda.",
-          "name": "",
+          "label": "Parmetal Distribuidora de Títulos e Valores Mobiliários",
+          "name": "Parmetal Distribuidora de Títulos e Valores Mobiliários Ltda.",
           "image": ""
         },
         {
+          "active": true,
           "code": "196",
-          "label": "Fair Corretora de Câmbio S.A.",
-          "name": "",
+          "label": "Fair Corretora de Câmbio",
+          "name": "Fair Corretora de Câmbio S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "197",
-          "label": "Stone Pagamentos S.A.",
-          "name": "",
+          "label": "Stone Pagamentos",
+          "name": "Stone Pagamentos S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "204",
-          "label": "Banco Bradesco Cartões S.A.",
-          "name": "",
+          "label": "Banco Bradesco Cartões",
+          "name": "Banco Bradesco Cartões S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "208",
-          "label": "Banco BTG Pactual S.A.",
-          "name": "",
+          "label": "Banco BTG Pactual",
+          "name": "Banco BTG Pactual S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "212",
           "label": "Banco Original",
           "name": "Banco Original S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/212.png"
         },
         {
+          "active": true,
           "code": "213",
-          "label": "Banco Arbi S.A.",
-          "name": "",
+          "label": "Banco Arbi",
+          "name": "Banco Arbi S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "217",
           "label": "Banco John Deere S.A.",
-          "name": "",
+          "name": "Banco John Deere S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "218",
-          "label": "Banco BS2 S.A.",
-          "name": "",
+          "label": "Banco BS2",
+          "name": "Banco BS2 S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "222",
-          "label": "Banco Credit Agrícole Brasil S.A.",
-          "name": "",
+          "label": "Banco Credit Agrícole Brasil",
+          "name": "Banco Credit Agrícole Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "224",
-          "label": "Banco Fibra S.A.",
-          "name": "",
+          "label": "Banco Fibra",
+          "name": "Banco Fibra S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "233",
-          "label": "Banco Cifra S.A.",
-          "name": "",
+          "label": "Banco Cifra",
+          "name": "Banco Cifra S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "237",
           "label": "Banco Bradesco",
           "name": "Banco Bradesco S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/237.png"
         },
         {
+          "active": true,
           "code": "241",
-          "label": "Banco Clássico S.A.",
-          "name": "",
+          "label": "Banco Clássico",
+          "name": "Banco Clássico S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "243",
-          "label": "Banco Máxima S.A.",
-          "name": "",
+          "label": "Banco Máxima",
+          "name": "Banco Máxima S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "246",
-          "label": "Banco ABC Brasil S.A.",
-          "name": "",
+          "label": "Banco ABC Brasil",
+          "name": "Banco ABC Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "249",
-          "label": "Banco Investcred Unibanco S.A.",
-          "name": "",
+          "label": "Banco Investcred Unibanco",
+          "name": "Banco Investcred Unibanco S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "250",
-          "label": "BCV - Banco de Crédito e Varejo S/A",
-          "name": "",
+          "label": "BCV - Banco de Crédito e Varejo",
+          "name": "BCV - Banco de Crédito e Varejo S/A",
           "image": ""
         },
         {
+          "active": true,
           "code": "253",
-          "label": "Bexs Corretora de Câmbio S/A",
-          "name": "",
+          "label": "Bexs Corretora de Câmbio",
+          "name": "Bexs Corretora de Câmbio S/A",
           "image": ""
         },
         {
+          "active": true,
           "code": "254",
-          "label": "Parana Banco S. A.",
-          "name": "",
+          "label": "Parana Banco",
+          "name": "Parana Banco S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "260",
           "label": "NuBank",
           "name": "Nu Pagamentos S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/260.png"
         },
         {
+          "active": true,
           "code": "265",
           "label": "Banco Fator",
           "name": "Banco Fator S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/265.png"
         },
         {
+          "active": true,
           "code": "266",
-          "label": "Banco Cédula S.A.",
-          "name": "",
+          "label": "Banco Cédula",
+          "name": "Banco Cédula S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "268",
           "label": "Barigui Companhia Hipotecária",
-          "name": "",
+          "name": "Barigui Companhia Hipotecária",
           "image": ""
         },
         {
+          "active": true,
           "code": "269",
           "label": "HSBC Brasil",
           "name": "HSBC Brasil S.A. Banco de Investimento",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/269.png"
         },
         {
+          "active": true,
           "code": "271",
           "label": "IB Corretora de Câmbio, Títulos e Valores Mobiliários Ltda.",
-          "name": "",
+          "name": "IB Corretora de Câmbio, Títulos e Valores Mobiliários Ltda.",
           "image": ""
         },
         {
+          "active": true,
           "code": "300",
           "label": "Banco de la Nacion Argentina",
-          "name": "",
+          "name": "Banco de la Nacion Argentina",
           "image": ""
         },
         {
+          "active": true,
           "code": "318",
           "label": "Banco BMG",
           "name": "Banco BMG S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/318.png"
         },
         {
+          "active": true,
           "code": "320",
           "label": "China Construction Bank (Brasil) Banco Múltiplo S/A",
-          "name": "",
+          "name": "China Construction Bank (Brasil) Banco Múltiplo S/A",
           "image": ""
         },
         {
+          "active": true,
           "code": "341",
-          "label": "Itaú Unibanco S.A.",
-          "name": "",
+          "label": "Itaú Unibanco",
+          "name": "Itaú Unibanco S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "366",
-          "label": "Banco Société Générale Brasil S.A.",
-          "name": "",
+          "label": "Banco Société Générale Brasil",
+          "name": "Banco Société Générale Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "370",
-          "label": "Banco Mizuho do Brasil S.A.",
-          "name": "",
+          "label": "Banco Mizuho do Brasil",
+          "name": "Banco Mizuho do Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "376",
           "label": "Banco J. P. Morgan S. A.",
-          "name": "",
+          "name": "Banco J. P. Morgan S. A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "389",
-          "label": "Banco Mercantil do Brasil S.A.",
-          "name": "",
+          "label": "Banco Mercantil do Brasil",
+          "name": "Banco Mercantil do Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "394",
-          "label": "Banco Bradesco Financiamentos S.A.",
-          "name": "",
+          "label": "Banco Bradesco Financiamentos",
+          "name": "Banco Bradesco Financiamentos S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "399",
-          "label": "Kirton Bank S.A. - Banco Múltiplo",
-          "name": "",
+          "label": "Kirton Bank",
+          "name": "Kirton Bank S.A. - Banco Múltiplo",
           "image": ""
         },
         {
+          "active": true,
           "code": "412",
-          "label": "Banco Capital S. A.",
-          "name": "",
+          "label": "Banco Capital",
+          "name": "Banco Capital S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "422",
           "label": "Banco Safra",
           "name": "Banco Safra S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/422.png"
         },
         {
+          "active": true,
           "code": "456",
-          "label": "Banco MUFG Brasil S.A.",
-          "name": "",
+          "label": "Banco MUFG Brasil",
+          "name": "Banco MUFG Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "464",
-          "label": "Banco Sumitomo Mitsui Brasileiro S.A.",
-          "name": "",
+          "label": "Banco Sumitomo Mitsui Brasileiro",
+          "name": "Banco Sumitomo Mitsui Brasileiro S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "473",
-          "label": "Banco Caixa Geral - Brasil S.A.",
-          "name": "",
+          "label": "Banco Caixa Geral - Brasil",
+          "name": "Banco Caixa Geral - Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "477",
-          "label": "Citibank N.A.",
-          "name": "",
+          "label": "Citibank",
+          "name": "Citibank N.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "479",
-          "label": "Banco ItauBank S.A.",
-          "name": "",
+          "label": "Banco ItauBank",
+          "name": "Banco ItauBank S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "487",
-          "label": "Deutsche Bank S.A. - Banco Alemão",
-          "name": "",
+          "label": "Deutsche Bank - Banco Alemão",
+          "name": "Deutsche Bank S.A. - Banco Alemão",
           "image": ""
         },
         {
+          "active": true,
           "code": "488",
           "label": "JPMorgan Chase Bank, National Association",
-          "name": "",
+          "name": "JPMorgan Chase Bank, National Association",
           "image": ""
         },
         {
+          "active": true,
           "code": "492",
           "label": "ING Bank N.V.",
-          "name": "",
+          "name": "ING Bank N.V.",
           "image": ""
         },
         {
+          "active": true,
           "code": "494",
           "label": "Banco de La Republica Oriental del Uruguay",
-          "name": "",
+          "name": "Banco de La Republica Oriental del Uruguay",
           "image": ""
         },
         {
+          "active": true,
           "code": "495",
           "label": "Banco de La Provincia de Buenos Aires",
-          "name": "",
+          "name": "Banco de La Provincia de Buenos Aires",
           "image": ""
         },
         {
+          "active": true,
           "code": "505",
-          "label": "Banco Credit Suisse (Brasil) S.A.",
-          "name": "",
+          "label": "Banco Credit Suisse (Brasil)",
+          "name": "Banco Credit Suisse (Brasil) S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "545",
-          "label": "Senso Corretora de Câmbio e Valores Mobiliários S.A.",
-          "name": "",
+          "label": "Senso Corretora de Câmbio e Valores Mobiliários",
+          "name": "Senso Corretora de Câmbio e Valores Mobiliários S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "600",
-          "label": "Banco Luso Brasileiro S.A.",
-          "name": "",
+          "label": "Banco Luso Brasileiro",
+          "name": "Banco Luso Brasileiro S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "604",
-          "label": "Banco Industrial do Brasil S.A.",
-          "name": "",
+          "label": "Banco Industrial do Brasil",
+          "name": "Banco Industrial do Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "610",
-          "label": "Banco VR S.A.",
-          "name": "",
+          "label": "Banco VR",
+          "name": "Banco VR S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "611",
-          "label": "Banco Paulista S.A.",
-          "name": "",
+          "label": "Banco Paulista",
+          "name": "Banco Paulista S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "612",
-          "label": "Banco Guanabara S.A.",
-          "name": "",
+          "label": "Banco Guanabara",
+          "name": "Banco Guanabara S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "613",
-          "label": "Omni Banco S.A.",
-          "name": "",
+          "label": "Omni Banco",
+          "name": "Omni Banco S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "623",
-          "label": "Banco Pan S.A.",
-          "name": "",
+          "label": "Banco Pan",
+          "name": "Banco Pan S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "626",
-          "label": "Banco Ficsa S. A.",
-          "name": "",
+          "label": "Banco Ficsa",
+          "name": "Banco Ficsa S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "630",
-          "label": "Banco Intercap S.A.",
-          "name": "",
+          "label": "Banco Intercap",
+          "name": "Banco Intercap S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "633",
-          "label": "Banco Rendimento S.A.",
-          "name": "",
+          "label": "Banco Rendimento",
+          "name": "Banco Rendimento S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "634",
-          "label": "Banco Triângulo S.A.",
-          "name": "",
+          "label": "Banco Triângulo",
+          "name": "Banco Triângulo S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "637",
-          "label": "Banco Sofisa S. A.",
-          "name": "",
+          "label": "Banco Sofisa",
+          "name": "Banco Sofisa S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "641",
-          "label": "Banco Alvorada S.A.",
-          "name": "",
+          "label": "Banco Alvorada",
+          "name": "Banco Alvorada S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "643",
-          "label": "Banco Pine S.A.",
-          "name": "",
+          "label": "Banco Pine",
+          "name": "Banco Pine S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "652",
-          "label": "Itaú Unibanco Holding S.A.",
-          "name": "",
+          "label": "Itaú Unibanco Holding",
+          "name": "Itaú Unibanco Holding S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "653",
-          "label": "Banco Indusval S. A.",
-          "name": "",
+          "label": "Banco Indusval",
+          "name": "Banco Indusval S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "654",
-          "label": "Banco A. J. Renner S.A.",
-          "name": "",
+          "label": "Banco A. J. Renner",
+          "name": "Banco A. J. Renner S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "655",
           "label": "Banco Votorantim",
           "name": "Banco Votorantim S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/655.png"
         },
         {
+          "active": true,
           "code": "707",
-          "label": "Banco Daycoval S.A.",
-          "name": "",
+          "label": "Banco Daycoval",
+          "name": "Banco Daycoval S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "712",
-          "label": "Banco Ourinvest S.A.",
-          "name": "",
+          "label": "Banco Ourinvest",
+          "name": "Banco Ourinvest S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "719",
-          "label": "Banif - Bco Internacional do Funchal (Brasil) S.A.",
-          "name": "",
+          "label": "Banif - Bco Internacional do Funchal (Brasil)",
+          "name": "Banif - Bco Internacional do Funchal (Brasil) S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "735",
-          "label": "Banco Neon.",
+          "label": "Banco Neon",
           "name": "Banco Neon S.A.",
           "image": "https://github.com/Composh/composh-banks/blob/main/Flags/BRA/735.png"
         },
         {
+          "active": true,
           "code": "739",
-          "label": "Banco Cetelem S.A.",
-          "name": "",
+          "label": "Banco Cetelem",
+          "name": "Banco Cetelem S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "741",
-          "label": "Banco Ribeirão Preto S.A.",
-          "name": "",
+          "label": "Banco Ribeirão Preto",
+          "name": "Banco Ribeirão Preto S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "743",
-          "label": "Banco Semear S.A.",
-          "name": "",
+          "label": "Banco Semear",
+          "name": "Banco Semear S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "745",
-          "label": "Banco Citibank S.A.",
-          "name": "",
+          "label": "Banco Citibank",
+          "name": "Banco Citibank S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "746",
-          "label": "Banco Modal S.A.",
-          "name": "",
+          "label": "Banco Modal",
+          "name": "Banco Modal S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "747",
-          "label": "Banco Rabobank International Brasil S.A.",
-          "name": "",
+          "label": "Banco Rabobank International Brasil",
+          "name": "Banco Rabobank International Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "748",
-          "label": "Banco Cooperativo Sicredi S. A.",
-          "name": "",
+          "label": "Banco Cooperativo Sicredi",
+          "name": "Banco Cooperativo Sicredi S. A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "751",
-          "label": "Scotiabank Brasil S.A. Banco Múltiplo",
-          "name": "",
+          "label": "Scotiabank Brasil",
+          "name": "Scotiabank Brasil S.A. Banco Múltiplo",
           "image": ""
         },
         {
+          "active": true,
           "code": "752",
-          "label": "Banco BNP Paribas Brasil S.A.",
-          "name": "",
+          "label": "Banco BNP Paribas Brasil",
+          "name": "Banco BNP Paribas Brasil S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "753",
-          "label": "Novo Banco Continental S.A. - Banco Múltiplo",
-          "name": "",
+          "label": "Novo Banco Continental",
+          "name": "Novo Banco Continental S.A. - Banco Múltiplo",
           "image": ""
         },
         {
+          "active": true,
           "code": "754",
-          "label": "Banco Sistema S.A.",
-          "name": "",
+          "label": "Banco Sistema",
+          "name": "Banco Sistema S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "755",
-          "label": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
-          "name": "",
+          "label": "Bank of America Merrill Lynch Banco Múltiplo",
+          "name": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
           "image": ""
         },
         {
+          "active": true,
           "code": "756",
-          "label": "Banco Cooperativo do Brasil S/A - Bancoob",
-          "name": "",
+          "label": "Bancoob - Banco Cooperativo do Brasil",
+          "name": "Banco Cooperativo do Brasil S/A - Bancoob",
           "image": ""
         },
         {
+          "active": true,
           "code": "757",
-          "label": "Banco Keb Hana do Brasil S. A."
+          "label": "Banco Keb Hana do Brasil",
+          "name": "Banco Keb Hana do Brasil S. A.",
+          "image": ""
         }
       ]
     },
     {
       "value": "USA",
-      "name": "United State of America"
+      "name": "United State of America",
+      "country_banks": []
     }
   ]
 }
