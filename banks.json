@@ -756,7 +756,7 @@
         {
           "active": true,
           "code": "194",
-          "label": "Parmetal Distribuidora de Títulos e Valores Mobiliários",
+          "label": "Parmetal DTVM",
           "name": "Parmetal Distribuidora de Títulos e Valores Mobiliários Ltda.",
           "image": ""
         },
@@ -805,7 +805,7 @@
         {
           "active": true,
           "code": "217",
-          "label": "Banco John Deere S.A.",
+          "label": "Banco John Deere",
           "name": "Banco John Deere S.A.",
           "image": ""
         },
@@ -931,7 +931,7 @@
         {
           "active": true,
           "code": "271",
-          "label": "IB Corretora de Câmbio, Títulos e Valores Mobiliários Ltda.",
+          "label": "IB Corretora de Câmbio, Títulos e Valores Mobiliários",
           "name": "IB Corretora de Câmbio, Títulos e Valores Mobiliários Ltda.",
           "image": ""
         },
@@ -952,14 +952,14 @@
         {
           "active": true,
           "code": "320",
-          "label": "China Construction Bank (Brasil) Banco Múltiplo S/A",
+          "label": "China Construction Bank (Brasil)",
           "name": "China Construction Bank (Brasil) Banco Múltiplo S/A",
           "image": ""
         },
         {
           "active": true,
           "code": "341",
-          "label": "Itaú Unibanco",
+          "label": "Itaú",
           "name": "Itaú Unibanco S.A.",
           "image": ""
         },
@@ -1071,7 +1071,7 @@
         {
           "active": true,
           "code": "492",
-          "label": "ING Bank N.V.",
+          "label": "ING Bank",
           "name": "ING Bank N.V.",
           "image": ""
         },
@@ -1211,8 +1211,8 @@
         {
           "active": true,
           "code": "653",
-          "label": "Banco Indusval",
-          "name": "Banco Indusval S.A.",
+          "label": "BI&P - Banco Indusval & Partners",
+          "name": "Banco Indusval & Partners S.A.",
           "image": ""
         },
         {
@@ -1337,7 +1337,7 @@
         {
           "active": true,
           "code": "755",
-          "label": "Bank of America Merrill Lynch Banco Múltiplo",
+          "label": "Bank of America Merrill Lynch",
           "name": "Bank of America Merrill Lynch Banco Múltiplo S.A.",
           "image": ""
         },
